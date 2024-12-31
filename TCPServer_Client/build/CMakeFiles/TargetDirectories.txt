@@ -1,0 +1,4 @@
+/workspaces/Practice_Programs_C-/TCPServer_Client/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Practice_Programs_C-/TCPServer_Client/build/CMakeFiles/edit_cache.dir
+/workspaces/Practice_Programs_C-/TCPServer_Client/build/CMakeFiles/client.dir
+/workspaces/Practice_Programs_C-/TCPServer_Client/build/CMakeFiles/server.dir

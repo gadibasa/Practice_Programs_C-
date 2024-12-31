@@ -1,0 +1,3 @@
+/workspaces/Practice_Programs_C-/Producer_consumer/build/CMakeFiles/rebuild_cache.dir
+/workspaces/Practice_Programs_C-/Producer_consumer/build/CMakeFiles/edit_cache.dir
+/workspaces/Practice_Programs_C-/Producer_consumer/build/CMakeFiles/producer_consumer.dir

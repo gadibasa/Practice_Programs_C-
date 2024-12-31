@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/workspaces/Practice_Programs_C-/Producer_consumer/producer_consumer.cpp
+iostream
+-
+thread
+-
+queue
+-
+mutex
+-
+condition_variable
+-
+chrono
+-
+vector
+-
+stdexcept
+-
+

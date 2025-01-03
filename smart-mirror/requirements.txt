@@ -1,0 +1,8 @@
+requests
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+tkinter
+
+
+API_KEY = '32931711086ca7d195caf075deba7ccb'
